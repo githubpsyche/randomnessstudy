@@ -1,0 +1,10 @@
+Step size:
+.025
+Tiles per row/column:
+80
+Matrix size (in pixels, < screen height - 135):
+650
+First Color:
+blue
+Second Color:
+chartreuse
