@@ -1,4 +1,4 @@
-The below describes how to set up your operating system for the program 
+The below describes how to set up a MacOS operating system for the program 
 and involves pasting 4 lines into the command prompt in succession.
 
 At this point you should be able to navigate to my script matrix.py
